@@ -1,4 +1,4 @@
-# Unity-Demo-Hair-Tests
+# Unity Demo Hair System Tests
 Various tests of Unity's Demo Hair System, and Alembic particle grooms imported from Blender.
 
 
