@@ -9,3 +9,4 @@ Various tests of Unity's demo hair system, and Alembic particle grooms imported 
 Current Version: v1.0
 
 ## Licenses
+Using experimental Unity Demo Hair System, available here: https://github.com/Unity-Technologies/com.unity.demoteam.hair
